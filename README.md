@@ -13,3 +13,4 @@
 
 * 'git add .' - stage current directory in git index
 * 'git commit -m "msg"' - commit work to local repo with commit msg
+* 'git checkout -b otherBranch' - if it has not yet been created, create this

@@ -15,4 +15,7 @@ Brief reference to git commands. Also practice with commit.
 * 'git add .' - stage current directory in git index
 * 'git commit -m "msg"' - commit work to local repo with commit msg
 * 'git checkout -b otherBranch' - if it has not yet been created, create this
+<<<<<<< HEAD
 * 'git pull origin main' - remerge any other branches back into one main branch project
+=======
+>>>>>>> 0f880bc68834b75c5e136680b52454011db817b6

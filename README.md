@@ -1,5 +1,6 @@
 ## Git Cheat Sheet
 
+Brief reference to git commands. Also practice with commit.
 
 * 'git init' - Initialize a local git repo in working directory
 * 'git status' - show state of local repo
@@ -13,3 +14,5 @@
 
 * 'git add .' - stage current directory in git index
 * 'git commit -m "msg"' - commit work to local repo with commit msg
+* 'git checkout -b otherBranch' - if it has not yet been created, create this
+* 'git pull origin main' - remerge any other branches back into one main branch project
